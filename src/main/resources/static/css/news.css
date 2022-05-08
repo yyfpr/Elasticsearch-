@@ -1,0 +1,110 @@
+.box-result {
+    border-bottom: 1px solid #f2f2f2;
+    padding: 10px 0;
+    margin-bottom: 0;
+}
+.mallSearch-form {
+    border-radius: 10px;
+    border: 1px solid rgba(25,25,67,.3);
+    overflow: hidden;
+    height: 40px;
+}
+.mallSearch-input clearfix {
+    display: flex;
+}
+.header-extra {
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    <!--style = "font-weight: 400;font-size: 140%;line-height: 39px;letter-spacing: 0.082em;"-->
+}
+#mallSearch #mq {
+    background: none;
+}
+#searchbtn {
+    /*border-radius: 30px;*/
+    background-color: #4E6EF2!important;
+    border-radius: 0 10px 10px 0;
+    height: 40px!important;
+}
+
+
+.fgray_time {
+    color: #666;
+    font-size: 12px;
+}
+.box-result h2 {
+    font: normal normal normal 16px/1.67em "Arial","Microsoft YaHei","微软雅黑";
+    font-size: 16px;
+}
+
+.box-result h2 a {
+    text-decoration: underline;
+}
+.more-keyword a, .result a {
+    text-decoration: none;
+}
+a {
+    color: #000099;
+    text-decoration: none;
+}
+.box-result h2 {
+    font: normal normal normal 16px/1.67em "Arial","Microsoft YaHei","微软雅黑";
+}
+
+
+.box-result .r-info p {
+    word-wrap: break-word;
+    word-break: break-all;
+}
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, table, td, img {
+    margin: 0;
+    padding: 0;
+}
+.main .result {
+    cursor: auto;
+}
+body {
+    font-family: "Arial","Microsoft YaHei","微软雅黑";
+}
+body {
+    color: #000;
+    font: 13px/20px "arial";
+    font-family: "arial";
+}
+.box-result .r-info {
+    width: 545px;
+}
+.box-result a {
+    font-size: 18px!important;
+}
+.box-result .r-info {
+    margin: 5px 0;
+    float: left;
+    width: 417px;
+}
+
+.box-result .r-img {
+    max-height: 240px;
+    overflow: hidden;
+}
+.box-result .r-img {
+    margin: 5px 0;
+    float: left;
+    width: 140px;
+    position: relative;
+}
+
+.box-result {
+    border-bottom: 1px solid #f2f2f2;
+    padding: 10px 0;
+    margin-bottom: 0;
+}
+.content {
+    color: rgb(102, 102, 102);
+}
+.layui-laypage a, .layui-laypage span {
+    font-size: 16px!important;
+}
+
+
